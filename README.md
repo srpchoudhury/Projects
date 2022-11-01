@@ -1,1 +1,1 @@
-# Based On OnlyJavaSE BasedProjects
+# Based On Only JavaSE BasedProjects
