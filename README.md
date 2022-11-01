@@ -1,1 +1,1 @@
-# Java_DSA_Questions
+# BasedOnOnlyJavaStandardEditionBasedProjects
